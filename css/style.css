@@ -70,7 +70,7 @@ font-family: var(--fuenePrincipal);
 .hero{
   background-image: url("../img/rodri.jpg"); /* The image used */
   position: relative;
-  height: 900px; /* You must set a specified height */
+  height: 1000px; /* You must set a specified height tenía 900px*/
   width: 100%;
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
